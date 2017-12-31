@@ -1,0 +1,52 @@
+dawn of the planet of the apes (2014)%%%godzilla (2014)	%%%1.0%%%1.0%%%1.0
+dawn of the planet of the apes (2014)%%%lone survivor (2013)	%%%1.0%%%1.0%%%1.0
+dawn of the planet of the apes (2014)%%%man of steel (2013)	%%%1.0%%%1.0%%%1.0
+dawn of the planet of the apes (2014)%%%the hobbit: the desolation of smaug (2013)	%%%1.0%%%1.0%%%1.0
+dawn of the planet of the apes (2014)%%%the secret life of walter mitty (2013)	%%%1.0%%%1.0%%%1.0
+der untergang (2004)%%%valkyrie (2008)	%%%1.0%%%1.0%%%0.9999999999999999
+der untergang (2004)%%%where eagles dare (1968)	%%%1.0%%%1.0%%%1.0
+elles (2011)%%%midnight in paris (2011)	%%%1.0%%%1.0%%%1.0
+enter nowhere (2011)%%%hooligans (2005)	%%%1.0%%%1.0%%%0.9999999999999999
+enter nowhere (2011)%%%los ojos de julia (2010)	%%%1.0%%%1.0%%%0.9999999999999999
+enter nowhere (2011)%%%the fourth kind (2009)	%%%1.0%%%1.0%%%0.9999999999999999
+enter nowhere (2011)%%%the wicked (2013)	%%%1.0%%%1.0%%%0.9999999999999998
+enter nowhere (2011)%%%would you rather (2012)	%%%1.0%%%1.0%%%0.9999999999999999
+enter nowhere (2011)%%%yi dai zong shi (2013)	%%%1.0%%%1.0%%%0.9999999999999999
+godzilla (2014)%%%lone survivor (2013)	%%%1.0%%%1.0%%%1.0
+godzilla (2014)%%%man of steel (2013)	%%%1.0%%%1.0%%%1.0
+godzilla (2014)%%%the hobbit: the desolation of smaug (2013)	%%%1.0%%%1.0%%%1.0
+godzilla (2014)%%%the secret life of walter mitty (2013)	%%%1.0%%%1.0%%%1.0
+heat (1995)%%%iron man 3 (2013)	%%%1.0%%%1.0%%%1.0
+hooligans (2005)%%%los ojos de julia (2010)	%%%1.0%%%1.0%%%0.9999999999999999
+hooligans (2005)%%%the fourth kind (2009)	%%%1.0%%%1.0%%%0.9999999999999999
+hooligans (2005)%%%the wicked (2013)	%%%1.0%%%1.0%%%0.9999999999999998
+hooligans (2005)%%%would you rather (2012)	%%%1.0%%%1.0%%%0.9999999999999999
+hooligans (2005)%%%yi dai zong shi (2013)	%%%1.0%%%1.0%%%0.9999999999999999
+horrible bosses 2 (2014)%%%the maze runner (2014)	%%%1.0%%%1.0%%%1.0
+horrible bosses 2 (2014)%%%the other woman (2014)	%%%1.0%%%1.0%%%1.0
+iron man 3 (2013)%%%the godfather (1972)	%%%1.0%%%1.0%%%1.0000000000000002
+killing them softly (2012)%%%side effects (2013)	%%%1.0%%%1.0%%%0.9999999999999999
+killing them softly (2012)%%%zero dark thirty (2012)	%%%1.0%%%1.0%%%1.0
+lone survivor (2013)%%%man of steel (2013)	%%%1.0%%%1.0%%%1.0
+lone survivor (2013)%%%the hobbit: the desolation of smaug (2013)	%%%1.0%%%1.0%%%1.0
+lone survivor (2013)%%%the secret life of walter mitty (2013)	%%%1.0%%%1.0%%%1.0
+los ojos de julia (2010)%%%the fourth kind (2009)	%%%1.0%%%1.0%%%0.9999999999999999
+los ojos de julia (2010)%%%the wicked (2013)	%%%1.0%%%1.0%%%0.9999999999999998
+los ojos de julia (2010)%%%would you rather (2012)	%%%1.0%%%1.0%%%0.9999999999999999
+los ojos de julia (2010)%%%yi dai zong shi (2013)	%%%1.0%%%1.0%%%0.9999999999999999
+man of steel (2013)%%%the hobbit: the desolation of smaug (2013)	%%%1.0%%%1.0%%%1.0
+man of steel (2013)%%%the secret life of walter mitty (2013)	%%%1.0%%%1.0%%%1.0
+side effects (2013)%%%zero dark thirty (2012)	%%%1.0%%%1.0%%%1.0
+the fourth kind (2009)%%%the wicked (2013)	%%%1.0%%%1.0%%%0.9999999999999998
+the fourth kind (2009)%%%would you rather (2012)	%%%1.0%%%1.0%%%0.9999999999999999
+the fourth kind (2009)%%%yi dai zong shi (2013)	%%%1.0%%%1.0%%%0.9999999999999999
+the godfather (1972)%%%the godfather: part ii (1974)	%%%1.0%%%1.0%%%0.9999999999999999
+the godfather (1972)%%%the godfather: part iii (1990)	%%%1.0%%%1.0%%%1.0
+the godfather: part ii (1974)%%%the godfather: part iii (1990)	%%%1.0%%%1.0%%%1.0
+the hobbit: the desolation of smaug (2013)%%%the secret life of walter mitty (2013)	%%%1.0%%%1.0%%%1.0
+the maze runner (2014)%%%the other woman (2014)	%%%1.0%%%1.0%%%1.0
+the wicked (2013)%%%would you rather (2012)	%%%1.0%%%1.0%%%0.9999999999999998
+the wicked (2013)%%%yi dai zong shi (2013)	%%%1.0%%%1.0%%%0.9999999999999998
+valkyrie (2008)%%%where eagles dare (1968)	%%%1.0%%%1.0%%%1.0000000000000002
+would you rather (2012)%%%yi dai zong shi (2013)	%%%1.0%%%1.0%%%0.9999999999999999
+heat (1995)%%%the godfather (1972)	%%%0.9379243316764732%%%0.9999999999999866%%%0.8758486633529599
